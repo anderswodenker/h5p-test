@@ -1,0 +1,14 @@
+.moduleWrapper {
+  position: relative;
+}
+
+.timeWrapper {
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: red;
+}
+
+span.timer {
+  font-size: 24px;
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Go fast!",
+  "description": "Time Test...",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 1,
+  "runnable": 1,
+  "author": "anderswodenker",
+  "license": "cc-by-sa",
+  "machineName": "H5P.FastAnswer",
+  "coreApi": {
+    "majorVersion": 1,
+    "minorVersion": 0
+  },
+  "preloadedJs": [
+    { "path": "fast-question.js" }
+  ],
+  "preloadedCss": [
+    { "path": "fast-question.css" }
+  ]
+}

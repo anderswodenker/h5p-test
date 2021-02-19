@@ -1,0 +1,8 @@
+[
+  {
+    "label": "Question",
+    "name": "question",
+    "type": "text",
+    "description": "The question to ask!"
+  }
+]
